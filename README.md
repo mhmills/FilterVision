@@ -7,8 +7,11 @@ FilterVision is an Android application that allows the user to change the color 
 I completed this project with four other students as part of EECS 495: Software for Accessibility at the University of Michigan in Spring 2023; this repository is cloned from the one we shared on UM GitLab. My teammates were:
 
 Matt Doucette | mdouce@umich.edu
+
 Kevin Han | khhan@umich.edu
+
 Rachit Jain | jrachit@umich.edu
+
 Javid Rzayev | rzayevj@umich.edu
 
 ## Installation
