@@ -18,7 +18,7 @@ Javid Rzayev | rzayevj@umich.edu
 Open the app-release.apk file and download it on your Android phone (On an Apple phone, you will need to download an application that opens .apk files). If your phone requests permission from system settings, allow them, and continue to download the file.
 **(If you wish to open this on a laptop using Android Studio, see "Alternate Options".)**
 
-![Screenshot_20230215_125515_Package_installer](/uploads/a16b22698696700e57ee5636149ab7b9/Screenshot_20230215_125515_Package_installer.jpg)
+![image](https://github.com/mhmills/FilterVision/assets/59720306/e71ac727-7630-49a5-b429-ef61efccf44c)
 
 ![Screenshot_20230215_125525_Settings](/uploads/18fccb698dc985538ba3526d80fb108b/Screenshot_20230215_125525_Settings.jpg)
 
