@@ -2,6 +2,15 @@
 
 FilterVision is an Android application that allows the user to change the color of their screen.
 
+## Credit
+
+I completed this project with four other students as part of EECS 495: Software for Accessibility at the University of Michigan in Spring 2023; this repository is cloned from the one we shared on UM GitLab. My teammates were:
+
+Matt Doucette | mdouce@umich.edu
+Kevin Han | khhan@umich.edu
+Rachit Jain | jrachit@umich.edu
+Javid Rzayev | rzayevj@umich.edu
+
 ## Installation
 Open the app-release.apk file and download it on your Android phone (On an Apple phone, you will need to download an application that opens .apk files). If your phone requests permission from system settings, allow them, and continue to download the file.
 **(If you wish to open this on a laptop using Android Studio, see "Alternate Options".)**
